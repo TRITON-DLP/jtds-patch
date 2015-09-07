@@ -8,6 +8,6 @@ Apparently the ticket above contains a patch for the issue as well ([http://sour
 ### What is included?
 * jTDS 1.3.1 as baseline
 * The patch from the link above is applied
-* 
+
 
 So far this seems to be behaving well for us.
